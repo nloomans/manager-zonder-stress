@@ -1,0 +1,22 @@
+---
+---
+
+$baseurl: '{{ site.baseurl }}'
+
+@import "normelize"
+@import "header"
+@import "manager"
+
+*
+  box-sizing: border-box
+
+body
+  margin: 0
+  font-family: 'Roboto', sans-serif
+
+a
+  text-decoration: none
+  outline: none
+
+  &:hover, &:focus
+    text-decoration: underline
