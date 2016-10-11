@@ -1,0 +1,16 @@
+<section class='managers'>
+  <header>
+    <div class="title">Managers</div>
+    <div class="underline"></div>
+  </header>
+  {% for manager in site.posts %}
+    <article>
+      <header>
+        <img src="{{ manager.image | prepend: '/assets/' | prepent: site.baseurl }}">
+        <span>{{ manager.name }}</span>
+      </header>
+      <p>{{ manager.excerpt}}</p>
+      <a class='read-more' href='{{ manager.url }}'>Meer lezen</a>
+    </article>
+  {% endfor %}
+</section>

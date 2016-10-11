@@ -1,9 +1,16 @@
 <header class='page-header'>
-  <div class="outer-circle">
+  <a class="outer-circle" href='{{ site.baseurl }}/'>
+    {% if page.image %}
+    <div class="inner-circle has-image">
+    {% else %}
     <div class="inner-circle">
+    {% endif %}
       <span>
         De manager zonder <i>stress</i>
       </span>
     </div>
-  </div>
+    {% if page.image %}
+      <div class="inner-image-circle" style="background-image: url({{ site.baseurl }}/assets/{{ page.image }})"></div>
+    {% endif %}
+  </a>
 </header>

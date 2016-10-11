@@ -1,3 +1,5 @@
+$timing-function: cubic-bezier(0.1, 0.52, 0.18, 1.46)
+
 header.page-header
   height: 300px
   background:
@@ -8,12 +10,16 @@ header.page-header
   display: flex
   align-items: center
   font-family: 'Roboto Slab'
-  
+
   .outer-circle
+    text-decoration: none
+    color: inherit
+    cursor: pointer
     margin: 0 auto
     padding: 5px
     border: 2px solid white
     border-radius: 50%
+    position: relative
 
   .inner-circle
     background-color: white
@@ -22,9 +28,68 @@ header.page-header
     width: 150px
     height: 150px
     padding: 15px
-    font-weight: 700
 
     display: flex
     justify-content: center
     align-items: center
     text-align: center
+
+    pointer-events: none
+
+  .inner-circle.has-image
+    animation:
+      name: rotate-front-to-back
+      timing-function: $timing-function
+      duration: 1500ms
+      delay: 1000ms
+      iteration-count: 1
+      fill-mode: forwards
+
+  .inner-image-circle
+    position: absolute
+    top: 5px
+    left: 5px
+    width: 150px
+    height: 150px
+    border-radius: 50%
+    background-position: center center
+    background-size: cover
+    transform: rotateY(180deg)
+    backface-visibility: hidden
+    animation:
+      name: rotate-back-to-front
+      timing-function: $timing-function
+      duration: 1500ms
+      delay: 1000ms
+      iteration-count: 1
+      fill-mode: forwards
+
+  .outer-circle:hover, .outer-circle:focus
+    .inner-circle.has-image
+      animation:
+        name: rotate-back-to-front
+        timing-function: $timing-function
+        duration: 200ms
+        delay: 0ms
+        iteration-count: 1
+        fill-mode: backwards
+    .inner-image-circle
+      animation:
+        name: rotate-front-to-back
+        timing-function: $timing-function
+        duration: 200ms
+        delay: 0ms
+        iteration-count: 1
+        fill-mode: backwards
+
+@keyframes rotate-back-to-front
+  from
+    transform: rotateY(180deg)
+  to
+    transform: rotateY(0deg)
+
+@keyframes rotate-front-to-back
+  from
+    transform: rotateY(0deg)
+  to
+    transform: rotateY(180deg)

@@ -1,13 +1,5 @@
 ---
-layout: home
+layout: default
 ---
-{% for manager in site.posts %}
-  <article class="manager">
-    <header>
-      <img src="{{ manager.image | prepend: '/assets/' | prepent: site.baseurl }}">
-      <span>{{ manager.name }}</span>
-    </header>
-    <p>{{ manager.excerpt}}</p>
-    <a class='read-more' href='{{ manager.url }}'>Meer lezen</a>
-  </article>
-{% endfor %}
+{% include about.html %}
+{% include managers.html %}

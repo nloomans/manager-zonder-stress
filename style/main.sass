@@ -2,10 +2,12 @@
 ---
 
 $baseurl: '{{ site.baseurl }}'
+$color-accent: #5c4123
 
 @import "normelize"
 @import "header"
 @import "manager"
+@import "about"
 
 *
   box-sizing: border-box
@@ -17,6 +19,24 @@ body
 a
   text-decoration: none
   outline: none
+  color: $color-accent
 
   &:hover, &:focus
     text-decoration: underline
+
+section > header
+  text-transform: uppercase
+  font:
+    family: 'Roboto'
+    weight: 600
+  text-align: center
+  margin:
+    top: 40px
+    bottom: 5px
+
+  .underline
+    content: ''
+    width: 70px
+    height: 3px
+    background-color: $color-accent
+    margin: 6px auto

@@ -1,0 +1,45 @@
+section.about
+  max-width: 400px
+  margin: 0 auto
+
+  p
+    padding: 32px
+    font-family: 'Roboto Slab'
+    text-align: justify
+
+  .submit-wrapper
+    text-align: center
+    height: 43px
+    user-select: none
+    a.submit
+      position: relative
+      .part
+        border: 2px solid $color-accent
+        padding: 10px 15px
+      .space-taker
+        opacity: 0
+        pointer-events: none
+      .hover
+        position: absolute
+        top: 0
+        left: 0
+        background-color: $color-accent
+        color: white
+      .no-hover-wrapper
+        position: absolute
+        top: 0
+        left: 0
+        overflow: hidden
+        user-select: text
+        // i'm sorry
+        height: 42px
+        width: 164px
+        transition: 150ms height linear
+        .no-hover
+          position: absolute
+          top: 0
+          left: 0
+          background-color: white
+      &:hover, &:focus
+        .no-hover-wrapper
+          height: 0px
