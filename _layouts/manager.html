@@ -7,11 +7,14 @@
   </head>
   <body>
     {% include header.html %}
-    <section class='managers'>
+    <section class='manager'>
+      <header>
+        <div class="title">{{ page.name }}</div>
+        <div class="underline"></div>
+      </header>
       <article>
-        <header>{{ page.name }}</header>
         <p>{{ content }}</p>
-        <a class='read-more' href='/'>Home</a>
+        <a class='home' href='/'>Home</a>
       </article>
     </section>
   </body>

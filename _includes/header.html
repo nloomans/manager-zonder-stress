@@ -1,5 +1,5 @@
-<header class='page-header'>
-  <a class="outer-circle" href='{{ site.baseurl }}/'>
+<header class="page-header" style="background-image: url('{{ site.baseurl }}/assets/backdrop{% if page.backdrop %}{{ page.backdrop}}{% else %}{{ site.backdrop }}{% endif %}')">
+  <a class="outer-circle" href="{{ site.baseurl }}/">
     {% if page.image %}
     <div class="inner-circle has-image">
     {% else %}
