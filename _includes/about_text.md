@@ -17,7 +17,7 @@ Nomineer diegene voor de titel Manager Zonder Stress 2016!
 
 Je kunt inzenden tot en met maandag 7 nov. 2016. De winnaar krijgt naast de titel een interview in een landelijk dagblad. Degene die de winnaar heeft aangedragen ontvangt een passende beloning.
 
-# Manager zonder stress herkenen
+# Manager zonder stress herkennen
 
 - straalt rust uit
 - neemt de tijd voor de mensen in zijn omgeving
