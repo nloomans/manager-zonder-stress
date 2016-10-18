@@ -3,12 +3,14 @@
 
 $baseurl: '{{ site.baseurl }}'
 $color-accent: #5c4123
+// $color-accent: #737918
 
 @import "normelize"
 @import "header"
 @import "managers"
 @import "manager"
 @import "about"
+@import "footer"
 
 *
   box-sizing: border-box
@@ -26,6 +28,25 @@ a
   &:hover, &:focus
     text-decoration: underline
 
+h1
+  text-transform: uppercase
+  font:
+    family: 'Roboto'
+    weight: 600
+    size: 16px
+  text-align: center
+  margin:
+    top: 40px
+    bottom: 5px
+
+  &::after
+    content: ''
+    display: block
+    width: 70px
+    height: 3px
+    background-color: $color-accent
+    margin: 6px auto
+
 section > header
   text-transform: uppercase
   font:
@@ -36,9 +57,14 @@ section > header
     top: 40px
     bottom: 5px
 
-  .underline
+  &::after
     content: ''
+    display: block
     width: 70px
     height: 3px
     background-color: $color-accent
     margin: 6px auto
+
+a.read-more
+  display: block
+  text-align: right

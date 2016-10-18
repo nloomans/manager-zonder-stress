@@ -1,16 +1,5 @@
 <section class='about'>
-  <header>
-    <div class="title">Over deze site</div>
-    <div class="underline"></div>
-  </header>
-  <p>{{ site.description }}</p>
-  <div class="submit-wrapper">
-    <a href="mailto:{{ site.email }}" class="submit">
-      <span class='part space-taker'>{{ site.button_text }}</span>
-      <span class='part hover'>{{ site.button_text }}</span>
-      <span class='no-hover-wrapper'>
-        <span class='part no-hover'>{{ site.button_text }}</span>
-      </span>
-    </a>
-  </div>
+  {% capture about_text %}{% include about_text.md %}{% endcapture %}
+  {{ about_text | markdownify }}
+  <a class='read-more' href='/wedstrijdgegevens/'>Meer info</a>
 </section>
