@@ -25,6 +25,8 @@ Je kunt inzenden tot en met maandag 7 nov. 2016. De winnaar krijgt naast de tite
 - heeft creatieve oplossingen
 - heeft humor
 - weet dat effectiviteit samenhangt met rustmomenten
+- is succesvol in wat hij of zij doet
+- wordt gewaardeerd door zijn of haar omgeving
 - leeft niet naar de waan van de dag maar houdt de regie in eigen hand
 - weet de planning op een dusdanige manier te organiseren dat er geen stress ontstaat
 - kan delegeren en houdt daarbij ook rekening met de werkdruk van de mensen in zijn omgeving
