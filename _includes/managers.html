@@ -3,10 +3,14 @@
   {% for manager in site.posts %}
     <article>
       <header>
-        <img src="{{ manager.image | prepend: '/assets/' | prepent: site.baseurl }}">
+        {% if manager.image %}
+          <img src="{{ manager.image | prepend: '/assets/' | prepent: site.baseurl }}">
+        {% else %}
+          <img>
+        {% endif %}
         <span>{{ manager.name }}</span>
       </header>
-      <p>{{ manager.excerpt}}</p>
+      <p>{{ manager.excerpt | truncate: 390 }}</p>
       <a class='read-more' href='{{ manager.url }}'>Meer lezen</a>
     </article>
   {% endfor %}
