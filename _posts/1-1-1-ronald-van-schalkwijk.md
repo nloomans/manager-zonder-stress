@@ -3,4 +3,10 @@ name: "Ronald van Schalkwijk"
 layout: "manager"
 permalink: "/genomineerden/ronald-van-schalkwijk"
 ---
-Ronald werkt op het ROC Beauty College, op een afdeling met een heleboel vrouwen (zowel de collega's als de studenten), en daar rustig onder blijven is een hele prestatie! Ik heb hele goede ervaringen met Ronald. Hij is duidelijk, eerlijk, positief en gericht op harmonie in zijn team, door de dingen gewoon naar buiten te brengen. Ik vind wel dat hij een keer in het zonnetje gezet mag worden :)
+Ronald werkt als onderwijsmanager op de afdeling schoonheidsverzorging van het Beauty College in Utrecht, een afdeling met een heleboel vrouwen (zowel de collega's als de studenten). Ronald werkt vanuit rust en vertrouwen, en dit vertrouwen geeft hij ook aan de collega's en studenten. Ik heb maar kort met Ronald gewerkt omdat ik als deeltijd vervanger in dienst was bij het Beauty College, en ik heb in die periode prettige ervaringen met Ronald; hij is duidelijk, eerlijk, positief en gericht op harmonie. 
+
+In mijn tweede week ging er iets mis in één van de groepen, waarop we met de drie partijen in gesprek gingen: de studenten, Ronald en ik. De zaken die er speelden werden in de openheid gebracht en Ronald reageerde hier zonder oordeel op. Doordat alles gezegd mocht worden, werd gauw duidelijk wat we wel en niet konden veranderen. Hierdoor konden we goed verder en was voor iedereen duidelijk wat hij kon verwachten. Het was een prettige ervaring!
+
+Ik heb Ronald leren kennen als een prettig en rustig mens met hart voor zijn personeel en de studenten. Ik vind dat hij wel een keer in het zonnetje gezet mag worden!
+
+_Genomineerd door Sandra Weijman_
