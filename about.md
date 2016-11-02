@@ -18,7 +18,7 @@ De jury bestaat uit
 
 - Tony Crabbe, bedrijfspsycholoog en schrijver van de bestseller ‘Nooit meer te druk, een opgeruimd hoofd in een overvolle wereld’.
 - Paul Loomans, oprichter van De StressOntknoping en schrijver van ‘Ik heb de tijd, handleiding in tijdsurfen’
-- een journalist
+- Lisette Thooft, auteur van o.a. ‘Kom uit je hoofd’
 
 # Links
 - Paul Loomans [www.destressontknoping.nl](http://www.destressontknoping.nl)
