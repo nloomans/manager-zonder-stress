@@ -1,6 +1,6 @@
 ---
 name: "David Asser"
-image: "davud-asser.jpg"
+image: "david-asser.jpg"
 layout: "manager"
 permalink: "/genomineerden/david-asser"
 ---
