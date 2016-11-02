@@ -3,6 +3,7 @@ name: "Cees Oerlemans"
 layout: "manager"
 permalink: "/genomineerden/cees-oerlemans"
 ---
+## Manager bij Interpolis
 Waarom Cees Oerlemans genomineerd?
 Omdat Cees zijn medewerkers vertrouwen geeft...vrijheid en verantwoordelijk.
 Hij faciliteert en biedt ondersteuning wanneer nodig om je functie goed uit te kunnen oefenen. Hij durft slecht nieuws gesprekken aan, met respect voor de ander. Hij spreekt vanuit zijn hart; eerlijk en oprecht. En durft zijn kop boven het maaiveld uit te steken, ook richting het hoger management.

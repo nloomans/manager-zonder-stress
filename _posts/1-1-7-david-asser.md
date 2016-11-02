@@ -4,9 +4,8 @@ image: "david-asser.jpg"
 layout: "manager"
 permalink: "/genomineerden/david-asser"
 ---
-Ik zou graag de heer David Asser nomineren. Hij is rector op het Fons Vitae Lyceum in Amsterdam.
-
-David heeft een stressvolle baan met grote verantwoordelijkheden. Onze school bevindt zich in een gebied met veel concurrentie van andere scholen en we zijn een levendige HAVO/VWO school met een gevarieerde populatie.
+## Rector van het Fons Vitae Lyceum
+Ik zou graag de heer David Asser nomineren. Hij is rector op het Fons Vitae Lyceum in Amsterdam. David heeft een stressvolle baan met grote verantwoordelijkheden. Onze school bevindt zich in een gebied met veel concurrentie van andere scholen en we zijn een levendige HAVO/VWO school met een gevarieerde populatie.
 
 Hij is zichtbaar in school en zijn deur staat spreekwoordelijk open voor een ieder die op school werkt. Ik heb daar als docent al vaak gebruik van gemaakt. Hij neemt de tijd voor je verhaal en handelt oplossingsgericht, regelt veel achter de schermen.  Zorgt ook dat er externe steun komt als dat nodig is en doet nooit moeilijk over de kosten daarvan. Dat terwijl de term 'budgetneutraal' op school vaak voorbij komt.
 

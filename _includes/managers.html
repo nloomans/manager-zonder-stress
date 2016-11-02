@@ -10,7 +10,7 @@
         {% endif %}
         <span>{{ manager.name }}</span>
       </header>
-      <p>{{ manager.excerpt | truncate: 390 }}</p>
+      <p>{{ manager.content | truncate: 390 }}</p>
       <a class='read-more' href='{{ manager.url }}'>Meer lezen</a>
     </article>
   {% endfor %}
