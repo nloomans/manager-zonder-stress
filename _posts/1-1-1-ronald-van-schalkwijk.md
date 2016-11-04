@@ -14,7 +14,7 @@ _Genomineerd door Sandra Weijman_
 
 <hr>
 
-hij is de **beste**.
+hij is de BESTE.
 Een goede manager, die staat voor zijn team!
 
 _Genomineerd door Janny Brem_
