@@ -2,6 +2,7 @@
 name: "Madeleine Boerma"
 layout: "manager"
 permalink: "/genomineerden/madeleine-boerma"
+image: "madeleine-boerma.jpg"
 ---
 ## Zelfstandig ondernemer bij Het Zakelijke Hart
 Madeleine Boerma is zeker niet altijd zonder stress, maar ze kan heel goed met haar schaarse stressmomenten om gaan. Ze voelt goed waar haar grenzen liggen en kan die ook goed bewaken. Dat maakt haar een rustige, betrouwbare en effectieve partner voor veel ondernemers die gebruik maken van haar expertise en begeleiding. Madeleine werkt met volledige aandacht, kan goed schakelen en houdt oog voor haar omgeving. Ze is veilig en prettig in de omgang zonder in te boeten op de resultaten die zij wil behalen. Ze maakt als vanzelfsprekend gebruik van haar intuïtie bij alles wat ze doet, dat maakt haar effectief. Het is plezierig om te zien hoe zij voluit vertrouwt op haar eigen intuïtie.
