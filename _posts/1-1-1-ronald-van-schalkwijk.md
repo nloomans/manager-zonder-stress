@@ -11,3 +11,10 @@ In mijn tweede week ging er iets mis in één van de groepen, waarop we met de d
 Ik heb Ronald leren kennen als een prettig en rustig mens met hart voor zijn personeel en de studenten. Ik vind dat hij wel een keer in het zonnetje gezet mag worden!
 
 _Genomineerd door Sandra Weijman_
+
+<hr>
+
+hij is de **beste**.
+Een goede manager, die staat voor zijn team!
+
+_Genomineerd door Janny Brem_
