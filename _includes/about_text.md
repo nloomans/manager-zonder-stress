@@ -1,5 +1,5 @@
-# Gezocht: de manager zonder stress!
-Tijdens de week van de werkstress 14 t/m 18 november wordt bekend gemaakt wie zich de manager zonder stress 2016 mag noemen. Wie is die manager die effectief is en de tijd heeft? En wat is diens geheim? Wie hem of haar kent mag het zeggen.
+# Gezocht: de Manager zonder stress!
+Tijdens de week van de werkstress 14 t/m 18 november kan men kandidaten nomineren voor de verkiezing van de Manager zonder stress. Wie is die manager die effectief is en de tijd heeft? En wat is diens geheim? Wie hem of haar kent mag het zeggen.
 
 # Iemand nomineren
 Ken je een manager, leidinggevende, ZZP-er, leerkracht, ondernemer, zorgverlener, IEMAND die vanuit rust en ontspanning werkt? De effectieve spin in het web die toch de tijd heeft? Die aandacht heeft voor anderen, voor het werk en zich laat leiden door z’n intuïtie in plaats van een te strakke tijdsplanning?<br>
@@ -15,7 +15,7 @@ Nomineer diegene voor de titel Manager Zonder Stress 2016!
   </a>
 </div>
 
-Je kunt inzenden tot en met maandag 7 nov. 2016. De winnaar krijgt naast de titel een interview in een landelijk dagblad. Degene die de winnaar heeft aangedragen ontvangt een passende beloning.
+Je kunt inzenden tot en met vrijdag 18 november 2016. De winnaar krijgt naast de titel een interview in een landelijk dagblad. Degene die de winnaar heeft aangedragen ontvangt een passende beloning.
 
 # Manager zonder stress herkennen
 
