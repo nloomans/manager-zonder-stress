@@ -3,9 +3,9 @@ title: Wedstrijdgegevens
 permalink: /wedstrijdgegevens/
 layout: about
 ---
-# Gezocht: de manager zonder stress!
+# Gezocht: de Manager zonder stress!
 
-Ken jij een manager zonder stress? Geef een korte beschrijving van hem of haar, liefst vergezeld van een foto. Je kunt inzenden tot en met maandag 5 nov. 2016. De jury stelt uit de inzendingen een shortlist samen. Dan kan men extra informatie geven over de genomineerden. De jury kiest 18 november de winnaar. Deze krijgt een interview aangeboden in een landelijk dagblad.
+Ken jij een Manager zonder stress? Geef een korte beschrijving van hem of haar, liefst vergezeld van een foto. Je kunt inzenden tot en met maandag 5 nov. 2016. De jury stelt uit de inzendingen een shortlist samen. Dan kan men extra informatie geven over de genomineerden. De jury kiest 18 november de winnaar. Deze krijgt een interview aangeboden in een landelijk dagblad.
 
 # Prijs
 De winnaar krijgt naast de titel een interview in een landelijk dagblad. Degene die de winnaar heeft aangedragen ontvangt een passende beloning.
