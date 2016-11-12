@@ -2,7 +2,7 @@
 name: "Karin Fijn van Draat"
 layout: "manager"
 permalink: "/genomineerden/karin-fijn-van-draat"
-image: ""
+image: "karinfijnvandraad.jpg"
 ---
 ## Kinderarts / Kinderhematoloog aan het AMC / Hoogleraar kinderhematologie
 Het Hemofiliebehandelcentrum van het AMC wil graag prof. dr. Karin Fijn van Draat nomineren voor de verkiezing van de 'Manager zonder stress'!
