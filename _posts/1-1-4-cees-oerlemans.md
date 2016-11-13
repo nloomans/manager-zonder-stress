@@ -3,6 +3,7 @@ name: "Cees Oerlemans"
 layout: "manager"
 permalink: "/genomineerden/cees-oerlemans"
 image: "cees_oerlemans.jpg"
+by: "Gül van den Bosch"
 ---
 ## Manager bij Interpolis
 Waarom Cees Oerlemans genomineerd?
@@ -11,5 +12,3 @@ Hij faciliteert en biedt ondersteuning wanneer nodig om je functie goed uit te k
 Cees herkent talent en stimuleert verdere ontwikkeling. Tenslotte heeft hij een berg gezond verstand.
 Ik ben fan van Cees. Hij is een jaar of 3 mijn leidinggevende geweest. Van 2007 tm 2010.
 Hij is een van de meest gewaardeerde collega die ik ken.
-
-_Genomineerd door Gül van den Bosch_
