@@ -2,7 +2,6 @@
 name: "Cees Oerlemans"
 layout: "manager"
 permalink: "/genomineerden/cees-oerlemans"
-image:"Cees Oerlemans.jpg"
 ---
 ## Manager bij Interpolis
 Waarom Cees Oerlemans genomineerd?
