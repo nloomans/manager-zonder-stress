@@ -1,5 +1,5 @@
 ---
-name: "Martha en Bianca"
+name: "Bianca Middelburg en Martha Neven"
 layout: "manager"
 permalink: "/genomineerden/martha-en-bianca"
 ---
