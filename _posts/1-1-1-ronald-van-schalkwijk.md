@@ -2,7 +2,7 @@
 name: "Ronald van Schalkwijk"
 layout: "manager"
 permalink: "/genomineerden/ronald-van-schalkwijk"
-image: "ronald_van_schalkwijk"
+image: "ronald_van_schalkwijk.jpg"
 ---
 ## Onderwijsmanager bij het Beauty College Utrecht
 Ronald werkt als onderwijsmanager op de afdeling schoonheidsverzorging van het Beauty College in Utrecht, een afdeling met een heleboel vrouwen (zowel de collega's als de studenten). Ronald werkt vanuit rust en vertrouwen, en dit vertrouwen geeft hij ook aan de collega's en studenten. Ik heb maar kort met Ronald gewerkt omdat ik als deeltijd vervanger in dienst was bij het Beauty College, en ik heb in die periode prettige ervaringen met Ronald; hij is duidelijk, eerlijk, positief en gericht op harmonie.
