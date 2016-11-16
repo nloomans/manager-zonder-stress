@@ -2,7 +2,7 @@
 name: "Marjolein ten Dam"
 layout: "manager"
 permalink: "/genomineerden/marjolein-ten-dam"
-image: ""
+image: "marjolein_ten_dam.jpg"
 by: "Hennie Kooistra"
 ---
 ## Senior teammanger zorg bij Zorgbalans: zorgcentrum de Heemhaven
