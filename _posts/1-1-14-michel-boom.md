@@ -2,6 +2,7 @@
 name: "Michel Boom"
 layout: "manager"
 permalink: "/genomineerden/michel-boom"
+image: "michel_boom.JPG"
 by: "Els de Ruiter"
 ---
 ## Teammanager bij de Rijksdienst voor Ondernemend Nederland
