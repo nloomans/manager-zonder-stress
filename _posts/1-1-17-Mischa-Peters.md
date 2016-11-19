@@ -2,7 +2,7 @@
 name: "Mischa Peters"
 layout: "manager"
 permalink: "/genomineerden/mischa-peters"
-image: ""
+image: "mischa-peters.jpg"
 by: "Ismaela Nieuwenhuijs"
 ---
 ## Hoofd Research Suport Office van de Universiteit Utrecht, Faculteit REBO
