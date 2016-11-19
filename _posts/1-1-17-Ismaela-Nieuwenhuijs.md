@@ -2,7 +2,7 @@
 name: "Ismaela Nieuwenhuijs"
 layout: "manager"
 permalink: "/genomineerden/ismaela-nieuwenhuijs"
-image: "csm_Ben-Semmekrot_-kinderarts_515d65f288.jpg"
+image: "ismaela_nieuwenhuijs.jpg"
 by: "Mischa Peters"
 ---
 ## Hoofd Research Suport Office van de Universiteit Utrecht, Faculteit REBO
