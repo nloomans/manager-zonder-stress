@@ -2,7 +2,7 @@
 name: "Marcel van Balgooi"
 layout: "manager"
 permalink: "/genomineerden/marcel-van-balgooi"
-image: ""
+image: "marcel_van_balgooi.png"
 by: "Tanja Bijleveld"
 ---
 ## Leerkracht i.o. bij de Annie M.G. Schmidtschool en politieagent
