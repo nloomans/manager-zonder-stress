@@ -19,3 +19,17 @@ hij is de BESTE.
 Een goede manager, die staat voor zijn team!
 
 _Genomineerd door Janny Brem_
+
+<hr>
+
+hij is de BESTE.
+Het is een rustige relaxte man
+
+
+_Genomineerd door Marjan Rooimans_
+
+<hr>
+
+Ronald is het mooiste voorbeeld van hoe een manager zou moeten werken. Hij straat rust en professionaliteit uit. Hij heeft altijd tijd en aandacht voor medewerkers en leerlingen, neemt ieder gesprek serieus en probeert altijd vanuit de professionaliteit naar oplossingen te zoeken. Is zeer betrokken, maar laat zich niet leiden door emoties. Hij werkt vanuit zijn deskundigheid en vanuit respect naar de collega's. Kortom een manager die iedereen wenst.
+
+_Genomineerd door Annemieke Pieneman_
