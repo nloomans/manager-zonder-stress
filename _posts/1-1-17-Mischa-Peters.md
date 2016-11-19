@@ -1,0 +1,9 @@
+---
+name: "Mischa Peters"
+layout: "manager"
+permalink: "/genomineerden/mischa-peters"
+image: ""
+by: "Ismaela Nieuwenhuijs"
+---
+## Hoofd Research Suport Office van de Universiteit Utrecht, Faculteit REBO
+Het werk bij een Research Support Office is zeer stressgevoelig. De Europese deadlines waar we aan werken zijn heel hard en het geld en de carriereimpact voor de wetenschappers heel groot. Zeer stressgevoelig dus. Onze leidinggevende - Mischa Peters - heeft een goed opgeleid, ambitieus en jong team onder zich. Zij geeft een geweldig voorbeeld door de manier waarop zij haar werk en privé in balans houdt. Natuurlijk is het vaak druk en zijn de belangen (zeer) groot, maar Mischa weet altijd in de gaten te houden wat belangrijk is. Dit doet ze ook voor haar team. Als iemand nog wat later op kantoor is of thuis aan het werk, 's avonds of in het weekend, dan worden kritische vragen gesteld. Is het echt nodig dit nu te doen? Is het zo belangrijk? Wat gebeurt er als je wacht tot morgen/maandag? Op doe manier geeft ze niet alleen het goede voorbeeld maar traint ze ook de volgende generatie leidinggevenden in het belang hiervan en het kritisch kijken naar de zin en onzin van stress en overwerk en het belang van een goede werk-privé balans. Ik ben altijd heel trots op haar als ze weer eens een collega naar huis stuurt die veel uren heeft gemaakt omdat het tot morgen kan wachten. Met daarbij de opdracht in het weekend iets leuks te gaan doen en geen mail te bekijken. Zij zorgt op deze manier voor een heel stabiel (jong!) team dat goed presteert en zeer goede evaluaties krijgt vanuit de klanten in de organisatie. En dat in wat naar mijn mening de afdeling is binnen de universiteit met de grootste deadline druk en met vaak zeer veeleisende klanten. Ik hoop heel erg dat u Mischa nog mee wilt nemen in uw evaluatie van de genomineerden. Zij is werkelijk een groot voorbeeld en vormer.
