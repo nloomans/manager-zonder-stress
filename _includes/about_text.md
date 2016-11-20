@@ -1,9 +1,19 @@
-# Gezocht: de Manager zonder stress!
-Tijdens de week van de werkstress 14 t/m 18 november kan men kandidaten nomineren voor de verkiezing van de Manager zonder stress. Wie is die manager die effectief is en de tijd heeft? En wat is diens geheim? Wie hem of haar kent mag het zeggen.
+# Finale! Gezocht: de Manager zonder stress!
+Wij als jury waren zeer onder de indruk van alle beschrijvingen en zijn blij te constateren dat er ondanks dat de tijd waarin wij leven lijkt aan te zetten tot grotere werkdruk, er zulke mooie voorbeelden zijn van managers die de rust weten te bewaren en de tijd nemen voor hun omgeving. 
 
-# Iemand nomineren
-Ken je een manager, leidinggevende, ZZP-er, leerkracht, ondernemer, zorgverlener, IEMAND die vanuit rust en ontspanning werkt? De effectieve spin in het web die toch de tijd heeft? Die aandacht heeft voor anderen, voor het werk en zich laat leiden door z’n intuïtie in plaats van een te strakke tijdsplanning?<br>
-Nomineer diegene voor de titel Manager Zonder Stress 2016!
+Wij hadden gisteren de lastige taak uit al deze nominaties een vijftal personen te kiezen die doorgaan voor de titel Manager zonder stress 2016. Wij hebben daarbij rekening gehouden met verschillende aspecten van het functioneren, naar de punten die vermeld staan op de website, en ook met de grootte van de uitdaging die de werksituatie met zich meebrengt.
+
+De vijf personen die in de beschrijvingen het meest voldeden aan de genoemde criteria waren:
+- Ben Semmekrot           Kinderarts - opleider aan het Canisius-Wilhelmina Ziekenhuis
+- Salem Samhoud           Oprichter van &samhoud
+- Mischa Peters              Hoofd Research Support Office van de Universiteit Utrecht, Faculteit REBO
+- Marcel van Balgooi     Leerkracht i.o. bij de Annie M.G. Schmidtschool en politieagent
+- Karin Fijn van Draat    Kinderarts / Kinderhematoloog aan het AMC / Hoogleraar kinderhematologie
+
+Vanaf nu mogen voor deze vijf personen nieuwe beschrijvingen toegevoegd worden door collega’s of medewerkers die ook nauw samenwerk(t)en met de genomineerde.
+Met deze nieuwe getuigenissen zal de jury opnieuw beoordelen wie de titel dit jaar het meest verdient.
+Hiervoor heeft men tijd tot en met donderdag as. 24 november. De winnaar wordt op woensdag 30 november bekend gemaakt en vereert met een bezoek op zijn werkplek, alwaar de prijs overhandigd zal worden.
+Verder willen wij alle vijf personen van de shortlist uitnodigen voor een podcast (een interview) waarin wij de genomineerde zullen vragen naar hun manier van werken en zich organiseren. Deze podcast zullen wij verspreiden via onze mediakanalen, zodat mogelijk veel mensen hiervan kunnen profiteren.
 
 <div class="submit-wrapper">
   <a href="https://btn.ymlp.com/xgemhhbegmgmh" class="submit">
@@ -15,7 +25,6 @@ Nomineer diegene voor de titel Manager Zonder Stress 2016!
   </a>
 </div>
 
-Je kunt inzenden tot en met vrijdag 18 november 2016. De winnaar krijgt naast de titel een interview in een landelijk dagblad. Degene die de winnaar heeft aangedragen ontvangt een passende beloning.
 
 # Manager zonder stress herkennen
 
