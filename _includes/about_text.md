@@ -4,11 +4,12 @@ Wij als jury waren zeer onder de indruk van alle beschrijvingen en zijn blij te 
 Wij hadden gisteren de lastige taak uit al deze nominaties een vijftal personen te kiezen die doorgaan voor de titel Manager zonder stress 2016. Wij hebben daarbij rekening gehouden met verschillende aspecten van het functioneren, naar de punten die vermeld staan op de website, en ook met de grootte van de uitdaging die de werksituatie met zich meebrengt.
 
 De vijf personen die in de beschrijvingen het meest voldeden aan de genoemde criteria waren:
-- Ben Semmekrot           Kinderarts - opleider aan het Canisius-Wilhelmina Ziekenhuis
-- Salem Samhoud           Oprichter van &samhoud
-- Mischa Peters              Hoofd Research Support Office van de Universiteit Utrecht, Faculteit REBO
-- Marcel van Balgooi     Leerkracht i.o. bij de Annie M.G. Schmidtschool en politieagent
-- Karin Fijn van Draat    Kinderarts / Kinderhematoloog aan het AMC / Hoogleraar kinderhematologie
+
+- **Ben Semmekrot**: Kinderarts - opleider aan het Canisius-Wilhelmina Ziekenhuis
+- **Salem Samhoud**: Oprichter van &samhoud
+- **Mischa Peters**: Hoofd Research Support Office van de Universiteit Utrecht, Faculteit REBO
+- **Marcel van Balgooi**: Leerkracht i.o. bij de Annie M.G. Schmidtschool en politieagent
+- **Karin Fijn van Draat**: Kinderarts / Kinderhematoloog aan het AMC / Hoogleraar kinderhematologie
 
 Vanaf nu mogen voor deze vijf personen nieuwe beschrijvingen toegevoegd worden door collega’s of medewerkers die ook nauw samenwerk(t)en met de genomineerde.
 Met deze nieuwe getuigenissen zal de jury opnieuw beoordelen wie de titel dit jaar het meest verdient.
