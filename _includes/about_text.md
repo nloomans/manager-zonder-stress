@@ -1,4 +1,4 @@
-# Finale! Gezocht: de Manager zonder stress!
+# Finale van de Manager zonder stress!
 Wij als jury waren zeer onder de indruk van alle beschrijvingen en zijn blij te constateren dat er ondanks dat de tijd waarin wij leven lijkt aan te zetten tot grotere werkdruk, er zulke mooie voorbeelden zijn van managers die de rust weten te bewaren en de tijd nemen voor hun omgeving. 
 
 Wij hadden gisteren de lastige taak uit al deze nominaties een vijftal personen te kiezen die doorgaan voor de titel Manager zonder stress 2016. Wij hebben daarbij rekening gehouden met verschillende aspecten van het functioneren, naar de punten die vermeld staan op de website, en ook met de grootte van de uitdaging die de werksituatie met zich meebrengt.
