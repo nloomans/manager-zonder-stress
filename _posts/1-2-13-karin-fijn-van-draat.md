@@ -4,6 +4,7 @@ layout: "manager"
 permalink: "/genomineerden/karin-fijn-van-draat"
 image: "karinfijnvandraad.jpg"
 by: "Marlene Beijleveldt, Caroline Valk, Marjolein van der Pot en Annelies Bentvelsen"
+gold: "yes"
 ---
 ## Kinderarts / Kinderhematoloog aan het AMC / Hoogleraar kinderhematologie
 Het Hemofiliebehandelcentrum van het AMC wil graag prof. dr. Karin Fijn van Draat nomineren voor de verkiezing van de 'Manager zonder stress'!

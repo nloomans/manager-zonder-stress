@@ -9,7 +9,10 @@
     {% include header.html %}
     <section class='manager'>
       <header>
-        <div class="title">{{ page.name }}</div>
+        <div class="title">
+          {{ page.name }}
+          {% if page.gold %}<span class='gold material-icons'>&#xE83A;</span>{% endif %}
+        </div>
         <div class="underline"></div>
       </header>
       <article>

@@ -1,5 +1,5 @@
 <section class='managers'>
-  <header>Genomineerden</header>
+  <header>Shortlist</header>
   {% for manager in site.posts %}
     <article>
       <header>
@@ -9,6 +9,7 @@
           <img>
         {% endif %}
         <span>{{ manager.name }}</span>
+        {% if manager.gold %}<span class='gold material-icons'>&#xE83A;</span>{% endif %}
       </header>
       <p>{{ manager.content | truncate: 390 }}</p>
       <a class='read-more' href='{{ manager.url }}'>Meer lezen</a>
