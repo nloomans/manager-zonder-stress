@@ -21,3 +21,9 @@ _Genomineerd door Saskia Bal_
 Ik heb als faculteitsdirecteur jarenlang (tot en met februari 2016) met Mischa te maken gehad en dat was voor mij een waar genoegen. Zij straalt altijd rust en overzicht uit. Ze heeft gezag zonder 'bazig te zijn', en dat zie je ook in haar houding. Ze heeft opvallende en passende accesoires: een niet te grote wel zeer kleurrijke tas (modieus ook) , en een kleine tablet . Daarmee heeft ze onopvallend de lijntjes in de hand, stuurt ze iedereen aan, heeft planningen in de gaten en zorgt dat klussen niet door elkaar lopen. Voor elk overleg kijkt ze dan even in die tas, zodat er ter plekke ruimte is voor een gesprek. Eenmaal aan tafel geeft ze dan met een glimlach, een korte versie van de hoofdlijnen van plannen aan, opties voor oplossingen en doet dat binnen de tijd zonder dat ze op het horloge kijkt. En dan is er ook altijd nog tijd voor een persoonlijke noot en een korte update over haar team. en, ook belangrijk, bij elke festiviteit van de organisatie of haar team is ze aanwezig. daar maakt ze tijd voor en geeft daarmee het signaal af dat het belangrijk is ook met elkaar deze momenten te vieren en tijd te nemen om elkaar beter te leren kennen.
 
 _Genomineerd door Eline den Boer_
+
+<hr>
+
+Ik kijk met plezier terug op 6 maanden waarin ik met Mischa heb mogen samenwerken. Prettig in de omgang, altijd met een grote dossierkennis en met een rust die ervoor zorgt dat zaken voor elkaar komen. Ook als het spannendn wordt is zij in staat om met een goed gevoel voor verhoudingen en een vleugje humor de boel weer vlot te trekken. Een fijne collega en een warme persoonlijkheid!
+
+_Genomineerd door Maaike Beckers_
