@@ -34,3 +34,9 @@ I am very happy to be in Mischa’s team and I have learnt a lot from her in pas
 
 _Genomineerd door Martina Chylkova_
 
+<hr>
+
+Mischa is a great example to follow. I have been working with her for almost two years, and since I started I have always appreciated her way of balancing work and private life. At work, she is always calm and relaxed, even in stressful situations. She is a good mentor, great leader but, most of all, she is approachable on a personal level and makes her team members feel valued, respected and understood; she is always really supportive, kind and sincerely interested in others well-being.
+
+_Genomineerd door Alice Perenzin_
+
