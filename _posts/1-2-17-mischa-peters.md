@@ -27,3 +27,10 @@ _Genomineerd door Eline den Boer_
 Ik kijk met plezier terug op 6 maanden waarin ik met Mischa heb mogen samenwerken. Prettig in de omgang, altijd met een grote dossierkennis en met een rust die ervoor zorgt dat zaken voor elkaar komen. Ook als het spannendn wordt is zij in staat om met een goed gevoel voor verhoudingen en een vleugje humor de boel weer vlot te trekken. Een fijne collega en een warme persoonlijkheid!
 
 _Genomineerd door Maaike Beckers_
+
+<hr>
+
+I am very happy to be in Mischa’s team and I have learnt a lot from her in past two years. For me, coming from a different country and a different working culture, Mischa’s attitude was a real eye opener. Even in the busiest, most stressful times, she stays calm, proceeds in a super-organized way and she always gets things done. And even in these busy periods, she always finds time for her team and colleagues to discuss and think along when they need her advice. What one calls unsolvable problem, Mischa sees as an interesting challenge and she has a great gift to zoom out to see the bigger picture and always comes up with a creative solution. Mischa also never forgets to ask you how are you doing and what fun plans you have for weekend and gives you always her full attention. It is simply a big pleasure to work with her.
+
+_Genomineerd door Martina Chylkova_
+
