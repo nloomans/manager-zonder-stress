@@ -39,4 +39,9 @@ _Genomineerd door Martina Chylkova_
 Mischa is a great example to follow. I have been working with her for almost two years, and since I started I have always appreciated her way of balancing work and private life. At work, she is always calm and relaxed, even in stressful situations. She is a good mentor, great leader but, most of all, she is approachable on a personal level and makes her team members feel valued, respected and understood; she is always really supportive, kind and sincerely interested in others well-being.
 
 _Genomineerd door Alice Perenzin_
+<hr>
+
+Mischa is een fijne en deskundige collega om mee te werken. Ze straalt rust uit, heeft overzicht en weet de juiste dingen met elkaar te verbinden. Als naaste collega zie ik dit terug in de wijze waarop zij haar team aanstuurt en hoe ze de dingen organiseert. In het team zie je verbinding, professionaliteit en deze rust terug. Dit is uiteindelijk van belang voor de hele organisatie.
+
+_Genomineerd door Rebecca van Musscher_
 
