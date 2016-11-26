@@ -16,4 +16,4 @@ Karin is sterk betrokken bij het HBC team en wil het beste uit alle individuele 
 
 Werken als kinderhematoloog én hoogleraar in een academisch ziekenhuis kan erg stressvol zijn. Karin is zich hier ter degen bewust van en heeft hier voor zichzelf een weg in gevonden, ze is een kei in het organiseren van haar eigen werk. Ze blijft positief en gaat binnen de grenzen van het ziekenhuis op zoek naar de mogelijkheden. Enthousiasme, optimisme en een creatieve wijze van denken kenmerken haar hierbij. Ze is voor ons als specialistisch verpleegkundigen laagdrempelig benaderbaar als arts en mens. Gaat pragmatisch te werk als het moet dat maakt haar manier van werken effectief. Zo houdt ze voldoende tijd over voor onderwijsmomenten of om vragen te beantwoorden.
 
-_Genomineerd door Marjolein van der Pot, Marlène Beijlevelt, Caroline Valk en Annelies Bentvelsen
+Genomineerd door Marjolein van der Pot, Marlène Beijlevelt, Caroline Valk en Annelies Bentvelsen
