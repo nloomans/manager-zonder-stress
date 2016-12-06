@@ -1,15 +1,14 @@
-# Finale van de Manager zonder stress!
-Wij als jury waren zeer onder de indruk van alle beschrijvingen en zijn blij te constateren dat er ondanks dat de tijd waarin wij leven lijkt aan te zetten tot grotere werkdruk, er zulke mooie voorbeelden zijn van managers die de rust weten te bewaren en de tijd nemen voor hun omgeving. 
+# Winnaars van de Manager zonder stress!
+Na samenspraak met Tony Crabbe en Lizette Thooft hebben we twee winnaars uitgekozen als ‘Manager zonder stress 2016’ Het zijn een man en een vrouw:
 
-Wij hadden gisteren de lastige taak uit al deze nominaties een vijftal personen te kiezen die doorgaan voor de titel Manager zonder stress 2016. Wij hebben daarbij rekening gehouden met verschillende aspecten van het functioneren, naar de punten die vermeld staan op de website, en ook met de grootte van de uitdaging die de werksituatie met zich meebrengt.
-
-De vijf personen die in de beschrijvingen het meest voldeden aan de genoemde criteria waren:
-
-- **Ben Semmekrot**: Kinderarts - opleider aan het Canisius-Wilhelmina Ziekenhuis
 - **Salem Samhoud**: Oprichter van &samhoud
 - **Mischa Peters**: Hoofd Research Support Office van de Universiteit Utrecht, Faculteit REBO
-- **Marcel van Balgooi**: Leerkracht i.o. bij de Annie M.G. Schmidtschool en politieagent
-- **Karin Fijn van Draat**: Kinderarts / Kinderhematoloog aan het AMC / Hoogleraar kinderhematologie
+
+Salem Samhoud waakt over de rust in zijn bedrijf. Medewerkers kregen bijvoorbeeld een bonus als zij de zakelijke telefoon tijdens hun vakanties niet gebruiken. Hij geeft zijn medewerkers vol vertrouwen en controleert ze niet. Zij kunnen zich zo volledig ontplooien, wat bijdraagt aan hun eigen welbevinden. Salem was blij met de zandloper want tijd is kostbaar. ‘Alles is er in overvloed’ zegt hij, ‘behalve de tijd’!
+
+Mischa Peters waakt eveneens over de rust van haar medewerkers. Zij stimuleert het dat de wetenschappers hun eigen balans bewaken. Zij is oprecht geïnteresseerd in het wel en wee van haar medewerkers. Zij werd maar liefst genomineerd door zeven medewerkers die alle weer andere aspecten waardeerden in haar functioneren. 
+
+We hebben Salem Samhoud en Mischa Peters uitgenodigd elk vijf tips te geven om de rust te behouden en tegelijk effectief te zijn. Binnenkort zullen wij hun reacties publiceren. Ook zullen wij podcasts afnemen met de vijf genomineerden op de shortlist over hun werkwijze en deze verspreiden in de social media.
 
 Vanaf nu mogen voor deze vijf personen nieuwe beschrijvingen toegevoegd worden door collega’s of medewerkers die ook nauw samenwerk(t)en met de genomineerde.
 Met deze nieuwe getuigenissen zal de jury opnieuw beoordelen wie de titel dit jaar het meest verdient.
