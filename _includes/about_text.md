@@ -15,6 +15,7 @@ Met deze nieuwe getuigenissen zal de jury opnieuw beoordelen wie de titel dit ja
 Hiervoor heeft men tijd tot en met donderdag as. 24 november. De winnaar wordt op woensdag 30 november bekend gemaakt en vereert met een bezoek op zijn werkplek, alwaar de prijs overhandigd zal worden.
 Verder willen wij alle vijf personen van de shortlist uitnodigen voor een podcast (een interview) waarin wij de genomineerde zullen vragen naar hun manier van werken en zich organiseren. Deze podcast zullen wij verspreiden via onze mediakanalen, zodat mogelijk veel mensen hiervan kunnen profiteren.
 
+[![Mischa Peters & Salem Samhoud](/assets/winnaars.jpg)](/assets/winnaars.jpg)
 
 # Manager zonder stress herkennen
 
