@@ -5,8 +5,8 @@ Na samenspraak met Tony Crabbe en Lizette Thooft hebben we twee winnaars uitgeko
 - **Mischa Peters**: Hoofd Research Support Office van de Universiteit Utrecht, Faculteit REBO
 
 <div class="img-group">
-  <a href="/assets/Salem Samhoud.JPG"><img src="/assets/Salem Samhoud.JPG" alt="Salem Samhoud"></a>
-  <a href="/assets/Mischa Peters.JPG"><img src="/assets/Mischa Peters.JPG" alt="Mischa Peters"></a>
+  <a href="/assets/Salem Samhoud-web.jpg"><img src="/assets/Salem Samhoud.JPG" alt="Salem Samhoud"></a>
+  <a href="/assets/Mischa Peters-web.jpg"><img src="/assets/Mischa Peters.JPG" alt="Mischa Peters"></a>
 </div>
 
 Salem Samhoud waakt over de rust in zijn bedrijf. Medewerkers kregen bijvoorbeeld een bonus als zij de zakelijke telefoon tijdens hun vakanties niet gebruiken. Hij geeft zijn medewerkers vol vertrouwen en controleert ze niet. Zij kunnen zich zo volledig ontplooien, wat bijdraagt aan hun eigen welbevinden. Salem was blij met de zandloper want tijd is kostbaar. ‘Alles is er in overvloed’ zegt hij, ‘behalve de tijd’!
