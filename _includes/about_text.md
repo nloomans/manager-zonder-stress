@@ -15,11 +15,6 @@ Mischa Peters waakt eveneens over de rust van haar medewerkers. Zij stimuleert h
 
 We hebben Salem Samhoud en Mischa Peters uitgenodigd elk vijf tips te geven om de rust te behouden en tegelijk effectief te zijn. Binnenkort zullen wij hun reacties publiceren. Ook zullen wij podcasts afnemen met de vijf genomineerden op de shortlist over hun werkwijze en deze verspreiden in de social media.
 
-Vanaf nu mogen voor deze vijf personen nieuwe beschrijvingen toegevoegd worden door collega’s of medewerkers die ook nauw samenwerk(t)en met de genomineerde.
-Met deze nieuwe getuigenissen zal de jury opnieuw beoordelen wie de titel dit jaar het meest verdient.
-Hiervoor heeft men tijd tot en met donderdag as. 24 november. De winnaar wordt op woensdag 30 november bekend gemaakt en vereert met een bezoek op zijn werkplek, alwaar de prijs overhandigd zal worden.
-Verder willen wij alle vijf personen van de shortlist uitnodigen voor een podcast (een interview) waarin wij de genomineerde zullen vragen naar hun manier van werken en zich organiseren. Deze podcast zullen wij verspreiden via onze mediakanalen, zodat mogelijk veel mensen hiervan kunnen profiteren.
-
 # Manager zonder stress herkennen
 
 - straalt rust uit
