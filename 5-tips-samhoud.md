@@ -1,5 +1,5 @@
 ---
-name: 5 Tips van Salem Samhoud
+name: "5 Tips van Salem Samhoud"
 permalink: /5-tips-samhoud/
 layout: manager
 image: salem_samhoud.jpg
