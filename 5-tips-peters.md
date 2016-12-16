@@ -4,6 +4,7 @@ layout: about
 image: mischa-peters.jpg
 ---
 # 5 Tips van Micha Peters - Heb aandacht en ben mild
+
 ## Winnaar van de verkiezing Manager zonder stress 2016
 
 - Maak grote problemen klein: analyseer een probleem en bekijk welke zaken jij kunt oplossen en welke niet. Voel je niet schuldig over de zaken waar je zelf geen controle over hebt. 
