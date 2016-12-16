@@ -1,7 +1,7 @@
 ---
 title: 5 Tips van Salem Samhoud
 permalink: /5-tips-samhoud/
-layout: about
+layout: manager
 ---
 # Alles is er in overvloed, behalve tijd!
 
