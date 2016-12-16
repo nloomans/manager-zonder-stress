@@ -5,7 +5,7 @@ image: mischa-peters.jpg
 ---
 ## Winnaar van de verkiezing Manager zonder stress 2016
 
-# 5 Tips van Micha Peters - Heb aandacht en ben mild
+# 5 Tips van Micha Peters<br>Heb aandacht en ben mild
 
 - Maak grote problemen klein: analyseer een probleem en bekijk welke zaken jij kunt oplossen en welke niet. Voel je niet schuldig over de zaken waar je zelf geen controle over hebt. 
 - Doe je werk met plezier en passie: werk dat je met plezier doet en waar je voldoening uit haalt kost minder energie. Sterker nog vaak krijg je er energie van. Focus dus ook niet te veel aan de dingen in je werk die je niet leuk vindt (doe die als eerste) dan blijft er genoeg tijd over voor de leuke dingen.
