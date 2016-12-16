@@ -14,7 +14,11 @@ Na samenspraak met Tony Crabbe en Lizette Thooft hebben we twee winnaars uitgeko
 
 Salem Samhoud waakt over de rust in zijn bedrijf. Medewerkers kregen bijvoorbeeld een bonus als zij de zakelijke telefoon tijdens hun vakanties niet gebruiken. Hij geeft zijn medewerkers vol vertrouwen en controleert ze niet. Zij kunnen zich zo volledig ontplooien, wat bijdraagt aan hun eigen welbevinden. Salem was blij met de zandloper want tijd is kostbaar. ‘Alles is er in overvloed’ zegt hij, ‘behalve de tijd’!
 
-Mischa Peters waakt eveneens over de rust van haar medewerkers. Zij stimuleert het dat de wetenschappers hun eigen balans bewaken. Zij is oprecht geïnteresseerd in het wel en wee van haar medewerkers. Zij werd maar liefst genomineerd door zeven medewerkers die alle weer andere aspecten waardeerden in haar functioneren. 
+[Lees de 5 tips van Salem Samhoud, alles is er in overvloed, behalve tijd](http://managerzonderstress.nl/5-tips-samhoud/)
+
+Mischa Peters waakt eveneens over de rust van haar medewerkers. Zij stimuleert het dat de wetenschappers hun eigen balans bewaken. Zij is oprecht geïnteresseerd in het wel en wee van haar medewerkers. Zij werd maar liefst genomineerd door zeven medewerkers die alle weer andere aspecten waardeerden in haar functioneren.
+
+[Lees de 5 tips van Mischa Peters, heb aandacht en ben mild](http://managerzonderstress.nl/5-tips-samhoud/)
 
 We hebben Salem Samhoud en Mischa Peters uitgenodigd elk vijf tips te geven om de rust te behouden en tegelijk effectief te zijn. Binnenkort zullen wij hun reacties publiceren. Ook zullen wij podcasts afnemen met de vijf genomineerden op de shortlist over hun werkwijze en deze verspreiden in de social media.
 
