@@ -2,6 +2,7 @@
 name: 5 Tips van Salem Samhoud
 permalink: /5-tips-samhoud/
 layout: manager
+image: salem_samhoud.jpg
 ---
 
 - Manage de rust om je heen. Creëer de juiste context om je heen. Zorg dat je goede mensen om je heen hebt. Ik vertrouw de mensen om mij heen volledig en controleer ze niet. 
