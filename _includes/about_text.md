@@ -1,5 +1,5 @@
-# Articel in de NRC
-[artikel NRC 15 nov. 2016 Annemiek Leclaire - Eerste hulp bij werkstress](https://www.nrc.nl/nieuws/2016/11/15/eerste-hulp-bij-werkstress-5279468-a1531883)
+# Artikel in de NRC
+[Artikel NRC 15 nov. 2016 Annemiek Leclaire - Eerste hulp bij werkstress](https://www.nrc.nl/nieuws/2016/11/15/eerste-hulp-bij-werkstress-5279468-a1531883)
 
 # Winnaars van de Manager zonder stress!
 Na samenspraak met Tony Crabbe en Lizette Thooft hebben we twee winnaars uitgekozen als ‘Manager zonder stress 2016’ Het zijn een man en een vrouw:
