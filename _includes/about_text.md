@@ -2,7 +2,7 @@
 [Artikel NRC 15 nov. 2016 Annemiek Leclaire - Eerste hulp bij werkstress](https://www.nrc.nl/nieuws/2016/11/15/eerste-hulp-bij-werkstress-5279468-a1531883)
 
 # Winnaars van de Manager zonder stress!
-Na samenspraak met Tony Crabbe en Lizette Thooft hebben we twee winnaars uitgekozen als ‘Manager zonder stress 2016’ Het zijn een man en een vrouw:
+De jury bestaande uit Tony Crabbe, Lizette Thooft en Paul Loomans heeft we twee winnaars uitgekozen als ‘Manager zonder stress 2016’.
 
 - **Salem Samhoud**: Oprichter van &samhoud
 - **Mischa Peters**: Hoofd Research Support Office van de Universiteit Utrecht, Faculteit REBO
@@ -12,7 +12,7 @@ Na samenspraak met Tony Crabbe en Lizette Thooft hebben we twee winnaars uitgeko
   <a href="/assets/Mischa%20Peters.JPG"><img src="/assets/Mischa%20Peters-web.jpg" alt="Mischa Peters"></a>
 </div>
 
-Salem Samhoud waakt over de rust in zijn bedrijf. Medewerkers kregen bijvoorbeeld een bonus als zij de zakelijke telefoon tijdens hun vakanties niet gebruiken. Hij geeft zijn medewerkers vol vertrouwen en controleert ze niet. Zij kunnen zich zo volledig ontplooien, wat bijdraagt aan hun eigen welbevinden. Salem was blij met de zandloper want tijd is kostbaar. ‘Alles is er in overvloed’ zegt hij, ‘behalve de tijd’!
+Salem Samhoud waakt over de rust in zijn bedrijf. Medewerkers krijgen een bonus als zij de zakelijke telefoon tijdens hun vakanties niet gebruiken. Hij geeft zijn medewerkers vertrouwen en controleert ze niet. Zij kunnen zich zo volledig ontplooien, wat bijdraagt aan hun eigen welbevinden. Salem was blij met de zandloper want tijd is kostbaar. ‘Alles is er in overvloed’ zegt hij, ‘behalve de tijd’!
 
 [Lees de 5 tips van Salem Samhoud, alles is er in overvloed, behalve tijd](http://managerzonderstress.nl/5-tips-samhoud/)
 
