@@ -1,4 +1,5 @@
 # Artikel in de NRC
+In de NRC verscheen onderstaand artikel over de verkiezing:
 [Artikel NRC 15 nov. 2016 Annemiek Leclaire - Eerste hulp bij werkstress](https://www.nrc.nl/nieuws/2016/11/15/eerste-hulp-bij-werkstress-5279468-a1531883)
 
 # Winnaars van de Manager zonder stress!
